@@ -81,7 +81,7 @@ def adding_matz
     programmer_hash[:yukihiro_matsumoto][:languages] = ["LISP", "C"]
 end
 
-def changing_alan
+def changing_alan(string)
 	programmer_hash = 
  		{
         :grace_hopper => {
